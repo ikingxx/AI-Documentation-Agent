@@ -1,0 +1,1 @@
+Some of the key AI concepts include: 1. Computer Vision This field enables AI systems to analyze and interpret visual data, facilitating applications such as facial recognition, medical imaging, autonomous vehicles, and surveillance systems. Sentiment analysis models can assess social media and news data to predict stock market fluctuations.
